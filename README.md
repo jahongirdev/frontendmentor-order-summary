@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo]()
-- Live Site URL: [Live Preview]()
+- Solution URL: [Github Repo](https://github.com/jahongirdev/frontendmentor-order-summary)
+- Live Site URL: [Live Preview](https://frontendmentor-four.netlify.app/)
 
 ### Built with
 
